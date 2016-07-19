@@ -1,2 +1,2 @@
-# Uplift
-Uplifting quotes in your menubar
+# Mote
+Mote: Movie quotes in your mac menubar.
