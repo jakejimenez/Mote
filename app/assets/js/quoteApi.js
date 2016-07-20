@@ -36,7 +36,7 @@ var QuoteApi = React.createClass({
 
         return (
             <div>
-                <center><h3>{this.state.quote}</h3></center>
+                <center><h3>{this.state.quote}</h3></center><br />
                 <p className="source-text"><strong>Movie: </strong> {this.state.author}</p>
             </div >
         );
