@@ -1,0 +1,19 @@
+{
+  "name": "uplift",
+  "description": "Uplifting quotes in your menubar",
+  "main": "main.js",
+  "authors": [
+    "r00t1000"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "electron",
+    "reactjs"
+  ],
+  "homepage": "https://github.com/r00t1000/Uplift",
+  "dependencies": {
+    "react": "^15.2.1",
+    "bootstrap-material-design": "^0.5.10"
+  }
+}
