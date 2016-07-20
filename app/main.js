@@ -8,7 +8,7 @@ const ipc = require('electron').ipcMain;
 var mb = menubar({
     dir: __dirname + "/views",
     width: 550,
-    height: 240,
+    height: 140,
     preloadWindow: true,
     icon: __dirname + 'assets/images/nucleus.png'
 });
