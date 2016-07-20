@@ -1,6 +1,6 @@
 {
-  "name": "uplift",
-  "description": "Uplifting quotes in your menubar",
+  "name": "mote",
+  "description": "Mote: Movie quotes in your mac menubar.",
   "main": "main.js",
   "authors": [
     "r00t1000"
